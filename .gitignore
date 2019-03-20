@@ -1,0 +1,4 @@
+# for github ignore
+
+node_modules
+.DS_Store
